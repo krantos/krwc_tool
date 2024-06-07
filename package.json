@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "author": "krantosdev <krantosdev@gmail.com>",
+  "name": "krwc_tool",
+  "version": "0.0.1-alpha.0",
+  "main": "lib/krwc_tool.js",
+  "license": "UNLICENSED",
+  "private": true
+}
